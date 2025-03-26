@@ -104,4 +104,4 @@ Practical recommendations were developed to help manufacturers align their produ
 
 [Click here to access the Video Presentation](https://drive.google.com/file/d/1tR9ChP01aEFQz0p08ldnoaMZ_nGmw5Dd/view?usp=sharing)
 
-
+For detailed analysis and related files, refer to the Report PDF provided in this repository.
