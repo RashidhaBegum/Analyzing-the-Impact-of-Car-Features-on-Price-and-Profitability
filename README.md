@@ -69,8 +69,8 @@ Use filters and slicers to make the chart interactive.
 
 ### How to Proceed :
 
-1.Database Creation:  
-  Download the dataset needed for the project to initiate analysis.
+1.Data Collection:  
+  Download the dataset needed for the project to initiate the analysis.
 
 2.Perform Analysis:  
   Utilize Excel for data processing, analysis, and dashboard creation to uncover insights.
